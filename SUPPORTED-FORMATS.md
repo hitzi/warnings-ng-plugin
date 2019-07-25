@@ -38,7 +38,7 @@ the [Analysis Parsers Library](https://github.com/jenkinsci/analysis-model/).
 | 18 | cpd | cpd() | ![CPD](src/main/webapp/icons/dry-24x24.png) ![CPD](src/main/webapp/icons/dry-48x48.png) | [CPD](https://pmd.github.io/latest/pmd_userdocs_cpd.html) | **/cpd.xml |
 | 19 | cppcheck | cppCheck() | - - | CPPCheck |  |
 | 20 | cpplint | cppLint() | - - | CppLint |  |
-| 21 | csslint | cssLint() | - - | CssLint |  |
+| 21 | csslint | cssLint() | - - | [CssLint](http://csslint.net/) |  |
 | 22 | detekt | detekt() | - - | [Detekt](https://arturbosch.github.io/detekt/) |  |
 | 23 | docfx | docFx() | - - | DocFX |  |
 | 24 | doxygen | doxygen() | - - | Doxygen |  |
